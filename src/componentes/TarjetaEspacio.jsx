@@ -1,6 +1,5 @@
 export function TarjetaEspacio({espacio}){
     return(
-
         <>
             <section className="card p-4 shadow">
                 <img src={espacio.foto} alt="" height="600"/>
